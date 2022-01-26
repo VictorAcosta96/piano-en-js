@@ -1,0 +1,4 @@
+1-  conseguir los recursos necesarios(imagenes, notas musicales)
+2-  definir un diseño   
+3-  escribir nuestro algoritmo (2 eventos ->uno para los botones y otro para las teclas)
+4-  hacer pruebas y corregir hasta finalizar nuestra app
